@@ -64,6 +64,11 @@ body,*{
     
     
 }
+
+.join{
+    position: relative;
+}
+
 .join img{
     max-height: 685px;
     width: 100%;
